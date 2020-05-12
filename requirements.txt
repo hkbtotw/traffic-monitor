@@ -89,6 +89,7 @@ pylint==2.3.1
 pyparsing==2.4.6
 pyrsistent==0.16.0
 PySocks==1.7.1
+pythainlp==2.1.4
 python-dateutil==2.8.1
 pytz==2019.3
 PyVirtualDisplay==0.2.5
@@ -126,6 +127,7 @@ webencodings==0.5.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
 wrapt==1.11.1
+xlrd==1.2.0
 xvfbwrapper==0.2.9
 yahoofinancials==1.5
 yarl==1.4.2
